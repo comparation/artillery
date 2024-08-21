@@ -142,7 +142,7 @@
     "temp": "^0.9.4",
     "tmp": "0.2.1",
     "try-require": "^1.2.1",
-    "walk-sync": "^0.2.3",
+    "walk-sync": "^0.3.4",
     "yaml-js": "^0.2.3"
   },
   "devDependencies": {
