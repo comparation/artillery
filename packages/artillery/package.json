@@ -125,7 +125,7 @@
     "detective-es6": "^4.0.1",
     "dotenv": "^16.0.1",
     "driftless": "^2.0.3",
-    "esbuild-wasm": "^0.19.8",
+    "esbuild-wasm": "^0.23.0",
     "eventemitter3": "^4.0.4",
     "fs-extra": "^10.1.0",
     "got": "^11.8.5",
